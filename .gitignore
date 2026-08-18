@@ -2,3 +2,6 @@
 *.rtf
 IMG_2550.PNG
 .vercel
+
+# Full-res source photos - keep local, do not deploy
+images/originals/
