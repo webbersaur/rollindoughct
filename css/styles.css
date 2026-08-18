@@ -397,6 +397,7 @@ ul { list-style: none; }
 .gallery__grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-auto-flow: dense;
   gap: 4px;
   max-width: 1400px;
   margin: 0 auto;
