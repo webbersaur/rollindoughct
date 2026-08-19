@@ -261,11 +261,6 @@ ul { list-style: none; }
 
 .about__image img:first-child {
   aspect-ratio: 3/2;
-  margin-bottom: var(--space-sm);
-}
-
-.about__image--secondary {
-  aspect-ratio: 3/4;
 }
 
 .about__text h2 {
